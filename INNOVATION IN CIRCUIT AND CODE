@@ -1,0 +1,3 @@
+#INNOVATION IN CODE for powering the 5th wheel
+We kept the code same just connected the output terminals of the 5th wheel to the inputs 1 and 4 of the motor driver as the logic of high and low matched the requirements tof the 5th wheel,i.e,
+Forward when bot moves forward, backward when backward, rest cases it stays in both terminals low mode.
